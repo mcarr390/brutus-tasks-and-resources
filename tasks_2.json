@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Chop Wood",
+    "category": "Gathering",
+    "location_required": "Forest",
+    "outputs": [
+      {
+        "resource": "Wood",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Mine Stone",
+    "category": "Gathering",
+    "location_required": "Quarry",
+    "outputs": [
+      {
+        "resource": "Stone",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Dig Clay",
+    "category": "Gathering",
+    "location_required": "Clay Pit",
+    "outputs": [
+      {
+        "resource": "Clay",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Mine Iron Ore",
+    "category": "Gathering",
+    "location_required": "Iron Mine",
+    "outputs": [
+      {
+        "resource": "Iron",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Mine Coal",
+    "category": "Gathering",
+    "location_required": "Coal Mine",
+    "outputs": [
+      {
+        "resource": "Coal",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Pan for Gold",
+    "category": "Gathering",
+    "location_required": "River",
+    "outputs": [
+      {
+        "resource": "Gold",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Mine Silver",
+    "category": "Gathering",
+    "location_required": "Silver Mine",
+    "outputs": [
+      {
+        "resource": "Silver",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Mine Copper",
+    "category": "Gathering",
+    "location_required": "Copper Mine",
+    "outputs": [
+      {
+        "resource": "Copper",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Mine Gemstones",
+    "category": "Gathering",
+    "location_required": "Gem Mine",
+    "outputs": [
+      {
+        "resource": "Gemstones",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Collect Sand",
+    "category": "Gathering",
+    "location_required": "Beach",
+    "outputs": [
+      {
+        "resource": "Sand",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Corn",
+    "category": "Agriculture",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Corn",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Wheat",
+    "category": "Agriculture",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Wheat",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Rice",
+    "category": "Agriculture",
+    "location_required": "Paddy",
+    "outputs": [
+      {
+        "resource": "Rice",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Barley",
+    "category": "Agriculture",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Barley",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Oats",
+    "category": "Agriculture",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Oats",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Pick Cotton",
+    "category": "Agriculture",
+    "location_required": "Cotton Field",
+    "outputs": [
+      {
+        "resource": "Cotton",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Hemp",
+    "category": "Agriculture",
+    "location_required": "Hemp Field",
+    "outputs": [
+      {
+        "resource": "Hemp",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Sugar Cane",
+    "category": "Agriculture",
+    "location_required": "Plantation",
+    "outputs": [
+      {
+        "resource": "Sugar",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Gather Herbs",
+    "category": "Foraging",
+    "location_required": "Forest",
+    "outputs": [
+      {
+        "resource": "Herbs",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Vegetables",
+    "category": "Agriculture",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Vegetables",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Fruit",
+    "category": "Agriculture",
+    "location_required": "Orchard",
+    "outputs": [
+      {
+        "resource": "Fruit",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Hunt Animals",
+    "category": "Hunting",
+    "location_required": "Forest",
+    "outputs": [
+      {
+        "resource": "Meat",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Fish",
+    "category": "Fishing",
+    "location_required": "River",
+    "outputs": [
+      {
+        "resource": "Fish",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Milk Cow",
+    "category": "Animal Handling",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Milk",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Shear Sheep",
+    "category": "Animal Handling",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Wool",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Collect Eggs",
+    "category": "Animal Handling",
+    "location_required": "Farm",
+    "outputs": [
+      {
+        "resource": "Eggs",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Harvest Honey",
+    "category": "Beekeeping",
+    "location_required": "Apiary",
+    "outputs": [
+      {
+        "resource": "Honey",
+        "amount": 1
+      }
+    ],
+    "tools_required": [],
+    "inputs": [],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Smelt Iron Ore",
+    "category": "Processing",
+    "location_required": "Forge",
+    "tools_required": [
+      "Smelting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Iron Ore",
+        "amount": 1
+      },
+      {
+        "resource": "Coal",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Iron Ingot",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Smelt Gold Ore",
+    "category": "Processing",
+    "location_required": "Forge",
+    "tools_required": [
+      "Smelting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Gold Ore",
+        "amount": 1
+      },
+      {
+        "resource": "Coal",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Gold Ingot",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Smelt Silver Ore",
+    "category": "Processing",
+    "location_required": "Forge",
+    "tools_required": [
+      "Smelting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Silver Ore",
+        "amount": 1
+      },
+      {
+        "resource": "Coal",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Silver Ingot",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Smelt Copper Ore",
+    "category": "Processing",
+    "location_required": "Forge",
+    "tools_required": [
+      "Smelting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Copper Ore",
+        "amount": 1
+      },
+      {
+        "resource": "Coal",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Copper Ingot",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Tan Hide",
+    "category": "Processing",
+    "location_required": "Tannery",
+    "tools_required": [
+      "Tanning Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Hide",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Leather",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Fire Clay",
+    "category": "Crafting",
+    "location_required": "Kiln",
+    "tools_required": [
+      "Pottery Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Raw Clay",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Pottery",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Make Charcoal",
+    "category": "Processing",
+    "location_required": "Charcoal Pit",
+    "tools_required": [],
+    "inputs": [
+      {
+        "resource": "Wood",
+        "amount": 2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Charcoal",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Craft Sword",
+    "category": "Crafting",
+    "location_required": "Forge",
+    "tools_required": [
+      "Crafting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Leather Grip",
+        "amount": 1
+      },
+      {
+        "resource": "Wood Handle",
+        "amount": 1
+      },
+      {
+        "resource": "Sword Blade",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Sword",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Sell to Merchant A",
+    "category": "Commerce",
+    "location_required": "Merchant A",
+    "tools_required": [],
+    "inputs": [
+      {
+        "resource": "Sword",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Gold",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Sell to Merchant B",
+    "category": "Commerce",
+    "location_required": "Merchant B",
+    "tools_required": [],
+    "inputs": [
+      {
+        "resource": "Sword",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Gold",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Craft Leather Grip",
+    "category": "Crafting",
+    "location_required": "Workbench",
+    "tools_required": [
+      "Crafting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Leather",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Leather Grip",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Buy Leather Grip",
+    "category": "Commerce",
+    "location_required": "Market",
+    "tools_required": [],
+    "inputs": [
+      {
+        "resource": "Gold",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Leather Grip",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Craft Sword Blade",
+    "category": "Crafting",
+    "location_required": "Forge",
+    "tools_required": [
+      "Smelting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Iron Ingot",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Sword Blade",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Buy Sword Blade",
+    "category": "Commerce",
+    "location_required": "Market",
+    "tools_required": [],
+    "inputs": [
+      {
+        "resource": "Gold",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Sword Blade",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Craft Wood Handle",
+    "category": "Crafting",
+    "location_required": "Carpenter's Workshop",
+    "tools_required": [
+      "Crafting Tools"
+    ],
+    "inputs": [
+      {
+        "resource": "Wood",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Wood Handle",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Buy Wood Handle",
+    "category": "Commerce",
+    "location_required": "Market",
+    "tools_required": [],
+    "inputs": [
+      {
+        "resource": "Gold",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Wood Handle",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Hunt Animals for Leather",
+    "category": "Hunting",
+    "location_required": "Forest",
+    "tools_required": [
+      "Hunting Tools"
+    ],
+    "inputs": [],
+    "outputs": [
+      {
+        "resource": "Hide",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  },
+  {
+    "name": "Skin Animals for Leather",
+    "category": "Processing",
+    "location_required": "Camp",
+    "tools_required": [
+      "Knife"
+    ],
+    "inputs": [
+      {
+        "resource": "Hide",
+        "amount": 1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "Leather",
+        "amount": 1
+      }
+    ],
+    "base_labor_cost": 1,
+    "repeatable": true
+  }
+]
