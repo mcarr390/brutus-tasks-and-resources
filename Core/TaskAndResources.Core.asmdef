@@ -1,0 +1,16 @@
+{
+    "name": "TaskAndResources.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:910e5866debff4c439539fd48579b86c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

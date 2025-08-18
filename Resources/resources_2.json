@@ -1,0 +1,563 @@
+{
+  "Resources": [
+    {
+      "name": "Wood",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Raw Stone",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Raw Clay",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Iron Ore",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Coal",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Gold Ore",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Silver Ore",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Copper Ore",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Gemstones",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Sand",
+      "category": "Raw Materials",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Corn",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Wheat",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Rice",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Barley",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Oats",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Cotton",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Hemp",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Sugar",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Herbs",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Vegetables",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Fruit",
+      "category": "Agricultural Resources",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Milk",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Wool",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Eggs",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Meat",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Fish",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Honey",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Hide",
+      "category": "Animal Products",
+      "type": "raw",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Leather",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Hide": 1,
+        "Salt": 1
+      }
+    },
+    {
+      "name": "Flour",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Wheat": 1
+      }
+    },
+    {
+      "name": "Salt",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Textiles",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Cotton": 1
+      }
+    },
+    {
+      "name": "Glass",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Sand": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "name": "Dye",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Herbs": 1
+      }
+    },
+    {
+      "name": "Stone blocks",
+      "category": "Building Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Raw Stone": 1
+      }
+    },
+    {
+      "name": "Bricks",
+      "category": "Building Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Raw Clay": 1,
+        "Firewood": 1
+      }
+    },
+    {
+      "name": "Wooden planks",
+      "category": "Building Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Wood": 1
+      }
+    },
+    {
+      "name": "Nails",
+      "category": "Building Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Iron Ingot": 1
+      }
+    },
+    {
+      "name": "Rope",
+      "category": "Building Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Hemp": 1
+      }
+    },
+    {
+      "name": "Water",
+      "category": "Other Resources",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {}
+    },
+    {
+      "name": "Firewood",
+      "category": "Other Resources",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Wood": 1
+      }
+    },
+    {
+      "name": "Charcoal",
+      "category": "Other Resources",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Firewood": 1
+      }
+    },
+    {
+      "name": "Pottery",
+      "category": "Other Resources",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Raw Clay": 1,
+        "Firewood": 1
+      }
+    },
+    {
+      "name": "Leather scraps",
+      "category": "Other Resources",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Leather": 1
+      }
+    },
+    {
+      "name": "Iron Ingot",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Iron Ore": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "name": "Gold Ingot",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Gold Ore": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "name": "Silver Ingot",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Silver Ore": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "name": "Copper Ingot",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Copper Ore": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "name": "Sword Blade",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Iron Ingot": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "name": "Leather Grip",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Leather": 1
+      }
+    },
+    {
+      "name": "Wood Handle",
+      "category": "Crafting Materials",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Wood": 1
+      }
+    },
+    {
+      "name": "Sword",
+      "category": "Crafted Goods",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Sword Blade": 1,
+        "Leather Grip": 1,
+        "Wood Handle": 1
+      }
+    },
+    {
+      "name": "Crafting Tools",
+      "category": "Tools",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Wood": 1,
+        "Iron Ingot": 1
+      }
+    },
+    {
+      "name": "Knife",
+      "category": "Tools",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Iron Ingot": 1,
+        "Wood Handle": 1
+      }
+    },
+    {
+      "name": "Hunting Tools",
+      "category": "Tools",
+      "type": "craftable",
+      "basevalue": 1,
+      "weight": 1,
+      "decayrate": 1,
+      "consumes": {
+        "Wood": 1,
+        "Rope": 1
+      }
+    }
+  ]
+}
