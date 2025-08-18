@@ -12,7 +12,7 @@ namespace tasks_and_resources.Core
         {
             var resourceDtos = JsonLoader.GetResourceDtos();
         
-            Registry = ResourceFactory.BuildResources(resourceDtos);
+            Registry = TaskAndResourceFactory.BuildResources(resourceDtos);
 
         }
     }

@@ -5,7 +5,7 @@ using tasks_and_resources.Data;
 // Builder / Mapper
 namespace tasks_and_resources.Core
 {
-    internal static class ResourceFactory
+    internal static class TaskAndResourceFactory
     {
         public static IReadOnlyDictionary<string, Resource> BuildResources(IEnumerable<ResourceDto> dtos)
         {
